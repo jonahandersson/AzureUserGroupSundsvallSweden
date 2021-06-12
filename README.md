@@ -11,6 +11,10 @@ The purpose of this user group is to unite everyone who wants to learn more abou
 
 We welcome to all interested developers or speakers who wants to volunteer, share and discuss their knowledge with others publicly. 
 
+# CODE OF CONDUCT 
+
+Please read user group's [Code of Conduct](https://github.com/azureusergroupsundsvallsweden/code-of-conduct.md)
+
 # Join us and let's learn together! 
 
 * Meetup: https://www.meetup.com/azureusergroupsundsvallsverige 
