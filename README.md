@@ -6,6 +6,9 @@ Repository for Azure Meetup Group - Azure User Group Sundsvall Sweden (AZUGSWEDE
 
 [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige) is an independent local and remote Meetup Azure users group started and founded by Jonah Andersson, who saw that her local community didn’t have an active community group for Azure developers. 
 
+
+This user group organizes events and technical sessions about Azure that are free and open to everyone who wants to learn more about modern cloud technologies in Azure and also software development in the cloud.
+
 A user group that aims to be inclusive and diverse. It is open to all software developers, software engineers, cloud architects, tech and cloud enthusiast in Sweden or remote. 
 The purpose of this user group is to unite everyone who wants to learn more about development in Microsoft Azure, cloud, AI, ML, and other modern technologies. 
 
